@@ -1377,10 +1377,11 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.toolStrip);
 			this.Controls.Add(this.statusStrip);
 			this.Controls.Add(this.mainMenuStrip);
+			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.MainMenuStrip = this.mainMenuStrip;
 			this.MinimumSize = new System.Drawing.Size(200, 100);
 			this.Name = "MainForm";
-			this.Text = "ReClass.NET";
+			this.Text = "SuperClass";
 			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
 			this.DragDrop += new System.Windows.Forms.DragEventHandler(this.MainForm_DragDrop);
 			this.DragEnter += new System.Windows.Forms.DragEventHandler(this.MainForm_DragEnter);

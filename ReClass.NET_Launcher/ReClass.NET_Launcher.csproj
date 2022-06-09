@@ -7,8 +7,8 @@
     <ProjectGuid>{16591D29-2370-428A-BA11-87E38D0F3551}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ReClassNET_Launcher</RootNamespace>
-    <AssemblyName>ReClass.NET_Launcher</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AssemblyName>SuperClass_Launcher</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
@@ -39,7 +39,7 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>ReClassNet.ico</ApplicationIcon>
+    <ApplicationIcon>edge.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -91,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="..\ReClass.Net\Resources\Icon\ReClassNet.ico" />
+    <Content Include="edge.ico" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

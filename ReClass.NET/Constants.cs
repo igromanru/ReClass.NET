@@ -1,8 +1,8 @@
-﻿namespace ReClassNET
+namespace ReClassNET
 {
 	public class Constants
 	{
-		public const string ApplicationName = "ReClass.NET";
+		public const string ApplicationName = "SuoerClass";
 
 		public const string ApplicationExecutableName = ApplicationName + ".exe";
 
@@ -10,13 +10,13 @@
 
 		public const string LauncherExecutableName = ApplicationName + "_Launcher.exe";
 
-		public const string Author = "KN4CK3R";
+		public const string Author = "Igro";
 
-		public const string HomepageUrl = "https://github.com/ReClassNET/ReClass.NET";
+		public const string HomepageUrl = "";
 
-		public const string HelpUrl = "https://github.com/ReClassNET/ReClass.NET/issues";
+		public const string HelpUrl = "";
 
-		public const string PluginUrl = "https://github.com/ReClassNET/ReClass.NET#plugins";
+		public const string PluginUrl = "";
 
 #if RECLASSNET64
 		public const string Platform = "x64";
