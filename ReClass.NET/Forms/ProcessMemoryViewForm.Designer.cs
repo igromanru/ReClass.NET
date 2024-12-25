@@ -199,7 +199,7 @@
 			this.MinimumSize = new System.Drawing.Size(586, 320);
 			this.Name = "ProcessMemoryViewer";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Memory Viewer";
+			this.Text = "SuperClass - Memory Viewer";
 			this.contextMenuStrip.ResumeLayout(false);
 			this.regionsGroupBox.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.sectionsDataGridView)).EndInit();

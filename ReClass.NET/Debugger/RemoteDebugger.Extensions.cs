@@ -11,7 +11,7 @@ namespace ReClassNET.Debugger
 
 			return debugger.StartDebuggerIfNeeded(
 				() => MessageBox.Show(
-					"This will attach the debugger of ReClass.NET to the current process. Continue?",
+					"This will attach the debugger of SuperClass to the current process. Continue?",
 					"Confirmation",
 					MessageBoxButtons.YesNo,
 					MessageBoxIcon.Question

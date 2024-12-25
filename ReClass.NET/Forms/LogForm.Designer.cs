@@ -135,7 +135,7 @@
 			this.Controls.Add(this.closeButton);
 			this.Controls.Add(this.entriesDataGridView);
 			this.Name = "LogForm";
-			this.Text = "ReClass.NET - Diagnostic Messages";
+			this.Text = "SuperClass - Diagnostic Messages";
 			((System.ComponentModel.ISupportInitialize)(this.entriesDataGridView)).EndInit();
 			this.contextMenuStrip.ResumeLayout(false);
 			this.ResumeLayout(false);
